@@ -61,7 +61,7 @@
 <table style="width: 100%;">
   <tr>
     <td>Celestia</td>
-    <td>Dymension</td>
+    <td>Dymension (ACTIVE VALIDATOR)</td>
     <td>Avail</td>
     <td>İnitia</td>
   </tr>
