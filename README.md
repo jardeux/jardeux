@@ -60,7 +60,7 @@
 <h2 align="center">My Experience</h3>
 <table style="width: 100%;">
   <tr>
-    <td>Celestia</td>
+    <td>Aligned</td>
     <td>Dymension (ACTIVE VALIDATOR)</td>
     <td>Avail</td>
     <td>İnitia</td>
