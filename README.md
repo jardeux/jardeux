@@ -1,90 +1,59 @@
-<h2 align="center">Introduction</h1>
-<h4 align="left">Hello guys I'm jardeux, I am studying IT engineering at a university in Turkey. We have been supporting various blockchain projects with a small team for a few years..</h4>
+<h1 align="center">Hi there, I'm Umut 👋</h1>
+
+<p align="center">
+  <em>Full Stack Developer • IT Engineering Student • Passionate Builder</em>
+</p>
 
 ---
 
-<h2 align="center">Our Mission</h1>
-<h4 align="left">We support various blockchain projects and do our best to develop both ourselves and the projects.</h4>
+## 🧑‍💻 About Me
 
----
-<h2 align="center">Our Contributions</h2>
-<h4 align="left"> At jardeux, we transcend the role of validators; we are champions of progress within the crypto sphere. Through our engaged participation across diverse cryptocurrency ecosystems, we endeavor to:</h4>
-<ul>
-  <li><strong>Promote decentralization</strong> by championing a multitude of blockchain projects and networks.</li>
-  <li><strong>Enhance PoS protocols</strong> through dedicated research, development, and collaborative efforts.</li>
-  <li><strong>Empower individuals and organizations</strong> with knowledge and resources to engage meaningfully in blockchain ecosystems.</li>
-  <li><strong>Pioneer innovative solutions</strong> and methodologies to address emerging challenges in the crypto space.</li>
-  <li><strong>Cultivate a culture of transparency, integrity, and trust</strong> within blockchain communities.</li>
-</ul>
+- 🎓 I'm currently a **BSc student** in Information Systems Engineering.
+- 🌍 Based in Türkiye.
+- 💼 I specialize in **ASP.NET Core**, **SQL**, and **modern web technologies**.
+- 🧠 Currently learning **advanced backend concepts** and building **real-world projects**.
+- 📚 Always excited about **clean code**, **scalable systems**, and **beautiful UI/UX**.
 
 ---
 
-<h2 align="center">Server Specifications</h2>
-<table align="center">
-  <tr>
-    <td><strong>Processor</strong></td>
-    <td>AMD EPYC 7002 SERIES</td>
-  </tr>
-  <tr>
-    <td><strong>RAM</strong></td>
-    <td>32 GB DDR4</td>
-  </tr>
-  <tr>
-    <td><strong>Disk</strong></td>
-    <td>2 x 512 GB NVMe SSD (software-RAID 1)</td>
-  </tr>
-  <tr>
-    <td><strong>Connection</strong></td>
-    <td>1 GBit/s port</td>
-  </tr>
-  <tr>
-    <td><strong>Bandwidth guaranteed</strong></td>
-    <td>1 GBit/s</td>
-  </tr>
-  <tr>
-    <td><strong>Backup Space</strong></td>
-    <td>100 GB</td>
-  </tr>
-  <tr>
-    <td><strong>Traffic</strong></td>
-    <td>Unlimited *</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Finland</td>
-  </tr>
-</table>
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5 • CSS3 • JavaScript (ES6+)
+- Bootstrap • Tailwind CSS
+
+### Backend
+- ASP.NET Core MVC / Web API
+- Entity Framework Core • LINQ
+
+### Database
+- MS SQL Server • MySQL
+
+### Tools & Others
+- Git & GitHub
+- Visual Studio / VS Code
+- Postman • Figma (for UI Planning)
 
 ---
 
-<h2 align="center">My Experience</h3>
-<table style="width: 100%;">
-  <tr>
-    <td>Aligned</td>
-    <td>Dymension (ACTIVE VALIDATOR)</td>
-    <td>Avail</td>
-    <td>İnitia</td>
-  </tr>
-</table>
+## 🚀 Projects
 
+Here are some of the things I've been working on:
 
-
----
-<h2 align="center">Connect With Us</h2>
-<h4 align="left">Join us on our journey towards a decentralized future.** Whether you're a blockchain project seeking reliable validation services or an enthusiast looking to engage with like-minded individuals, jardeux team welcomes you to connect with us on GitHub and other platforms.</h4>
-
-**You can reach out to us via Twitter or email** for inquiries or further communication. We look forward to connecting with you! 
-
-MAIL : j4rdeux@gmail.com
-
-
-
-
-<p align="left"> <a href="https://twitter.com/j4rdeux" target="blank"><img src="https://img.shields.io/twitter/follow/j4rdeux?logo=twitter&style=for-the-badge" alt="j4rdeux" /></a> </p>
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎯 **JardeuxBlog** | A modern blog system with admin panel, comment system, and rich UI | ASP.NET Core, EF Core, Bootstrap |
+| 📊 **E-CommerceMVC** | Role-based e-commerce management system | ASP.NET Core, Repository Pattern, SQL |
 
 ---
 
+## 📫 Let's Connect
 
+- GitHub: [@jardeux](https://github.com/jardeux)
+- LinkedIn: *[Umut Şen](https://www.linkedin.com/in/umut-%C5%9Fen-6932b62b2/)*
+- Mail: umut53701@gmail.com
 
+---
 
+⭐ If you like what I do, consider following me or starring a project!
 
