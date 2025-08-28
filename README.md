@@ -44,6 +44,7 @@ Here are some of the things I've been working on:
 |--------|-------------|------------|
 | 🎯 **JardeuxBlog** | A modern blog system with admin panel, comment system, and rich UI | ASP.NET Core, EF Core, Bootstrap |
 | 📊 **E-CommerceMVC** | Role-based e-commerce management system | ASP.NET Core, Repository Pattern, SQL |
+| 📊 **CineUG+**  |Modern, responsive ve kullanıcı dostu film & dizi keşif uygulaması | React 19.1.1  |
 
 ---
 
